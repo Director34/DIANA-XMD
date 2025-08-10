@@ -45,26 +45,26 @@
 
 
 
-<a><img src='https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg'/></a>
+<a><img src='https://files.catbox.moe/2rps71.jpg'/></a>
 
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
 **𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/KuX57n5cBId0UtTk8u9RSl" target="_blank">
+- <a href="https://chat.whatsapp.com/Kaa8a9FxWMxAXd5GwPETZe?mode=ac_t" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VabySTR9Bb5upWFhMv1N">
+  <a href="https://whatsapp.com/channel/0029VbA8bWXKmCPZ2EFhAA0Y">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
   
 
 
-Enjoy the diverse features of RHODVICKEZ-MD  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of DIANA - XMD  to enhance your Whatsapp more enjoyable
 
 
 #
