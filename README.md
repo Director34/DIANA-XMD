@@ -1,5 +1,5 @@
-<a><img src='https://i.ibb.co/wJBxKV4/74421a3c5d94ac0a.jpg'/></a>
-<h1 align="center"> RHODVICKEZ-MD </h1>
+<a><img src='https://files.catbox.moe/v1or1h.jpg'/></a>
+<h1 align="center"> DIANA ~ XMD </h1>
 
  
 <h1 align="center"> You may not know what is going to happen if you try. but if you don't try, nothing is going to happen
@@ -20,16 +20,16 @@
 
   
 
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK RHODVICKEZ-MD" width="150"></a>
+<a href="https://github.com/QUEEN-DIANA/DIANA-XMD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DIANA-XMD" width="150"></a>
 
-  <a href="https://power-session.silvatechinc.my.id/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
+  <a href="https://queen-diana-pair.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=kenya" width="230" height="38.45"/></a></p>
 
 
 
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Rhodvick/RHODVICKEZ-MD&template=https://github.com/Rhodvick/RHODVICKEZ-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/QUEEN-DIANA/DIANA-XMD&template=https://github.com/QUEEN-DIANA/DIANA-XMD.git)***
 
 <br>
 
@@ -37,7 +37,7 @@
 **𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Rhodvick/RHODVICKEZ-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/QUEEN-DIANA/DIANA-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
