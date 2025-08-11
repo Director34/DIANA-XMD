@@ -50,7 +50,7 @@
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
 **𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/Kaa8a9FxWMxAXd5GwPETZe?mode=ac_t" target="_blank">
+- <a href="https://chat.whatsapp.com/H733LvgD49U0eLfy5HzrKR?mode=ac_t" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
