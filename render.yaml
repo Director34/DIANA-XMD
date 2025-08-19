@@ -10,7 +10,7 @@ services:
         sync: false
       - key: OWNER
         sync: false
-      - key: OWNER-NUMBER
+      - key: 255686981501
         sync: false
       - key: PREFIX
         sync: false
